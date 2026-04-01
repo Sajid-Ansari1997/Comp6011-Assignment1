@@ -1,4 +1,4 @@
-# This is a sample experiment configuration file for training a YOLOv8n model on the BDD100K dataset.
+#
 experiment_name: yolov8n_bdd
 dataset_yaml: configs/datasets/bdd100k_detector.yaml
 base_model: yolov8n.pt
