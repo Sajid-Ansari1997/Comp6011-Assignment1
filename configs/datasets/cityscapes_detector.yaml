@@ -1,0 +1,16 @@
+path: datasets/cityscapes_yolo
+
+train: train/images
+val: val/images
+test: val/images
+
+names:
+  0: person
+  1: rider
+  2: car
+  3: truck
+  4: bus
+  5: bike
+  6: motor
+  7: traffic light
+  8: traffic sign

@@ -1,0 +1,5 @@
+{
+  "experiment_name": "yolov8n_coco128",
+  "estimated_emissions_kg_co2": 6.21495199138402e-05,
+  "method": "CodeCarbon validation-run estimate"
+}

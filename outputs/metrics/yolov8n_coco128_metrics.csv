@@ -1,0 +1,2 @@
+experiment_name,candidate_label,dataset_name,base_model,weights_path,dataset_yaml,split,mAP50,mAP50_95,precision,recall,eval_time_seconds,fps_estimate
+yolov8n_coco128,baseline,coco128,yolov8n,C:\Users\ACER\Downloads\Compressed\runs\detect\outputs\yolov8n_coco128\weights\best.pt,C:/Users/ACER/Downloads/Compressed/datasets/coco128.yaml,val,0.7102138016598687,0.5351470244129551,0.7085767121677574,0.6322086479827781,24.48,4.08

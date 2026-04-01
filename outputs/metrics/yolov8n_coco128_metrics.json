@@ -1,0 +1,15 @@
+{
+  "experiment_name": "yolov8n_coco128",
+  "candidate_label": "baseline",
+  "dataset_name": "coco128",
+  "base_model": "yolov8n",
+  "weights_path": "C:\\Users\\ACER\\Downloads\\Compressed\\runs\\detect\\outputs\\yolov8n_coco128\\weights\\best.pt",
+  "dataset_yaml": "C:/Users/ACER/Downloads/Compressed/datasets/coco128.yaml",
+  "split": "val",
+  "mAP50": 0.7102138016598687,
+  "mAP50_95": 0.5351470244129551,
+  "precision": 0.7085767121677574,
+  "recall": 0.6322086479827781,
+  "eval_time_seconds": 24.48,
+  "fps_estimate": 4.08
+}

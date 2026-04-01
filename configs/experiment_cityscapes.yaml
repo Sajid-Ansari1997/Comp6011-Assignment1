@@ -1,0 +1,10 @@
+experiment_name: yolov8n_cityscapes
+dataset_yaml: configs/datasets/cityscapes_detector.yaml
+base_model: yolov8n.pt
+epochs: 20
+imgsz: 640
+batch: 16
+device: "cpu"
+project_dir: outputs
+candidate_label: YOLOv8n on Cityscapes
+dataset_name: Cityscapes

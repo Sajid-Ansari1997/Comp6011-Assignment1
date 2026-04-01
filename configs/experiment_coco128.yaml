@@ -1,0 +1,10 @@
+project_dir: C:/Users/ACER/Downloads/Compressed/runs/detect/outputs
+experiment_name: yolov8n_coco128
+candidate_label: baseline
+dataset_name: coco128
+base_model: yolov8n
+weights_path: C:/Users/ACER/Downloads/Compressed/runs/detect/outputs/yolov8n_coco128/weights/best.pt
+dataset_yaml: C:/Users/ACER/Downloads/Compressed/datasets/coco128.yaml
+imgsz: 640
+device: cpu
+split: val

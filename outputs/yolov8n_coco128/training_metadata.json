@@ -1,0 +1,13 @@
+{
+  "experiment_name": "yolov8n_coco128",
+  "dataset_name": "COCO128",
+  "candidate_label": "YOLOv8n on COCO128",
+  "base_model": "yolov8n.pt",
+  "epochs": 10,
+  "imgsz": 640,
+  "batch": 16,
+  "device": "cpu",
+  "device_name": "CPU",
+  "training_time_seconds": 1033.68,
+  "best_weights": "C:\\Users\\ACER\\Downloads\\Compressed\\outputs\\yolov8n_coco128\\weights\\best.pt"
+}

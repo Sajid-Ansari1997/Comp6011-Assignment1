@@ -1,0 +1,10 @@
+experiment_name: yolov8n_bdd
+dataset_yaml: configs/datasets/bdd100k_detector.yaml
+base_model: yolov8n.pt
+epochs: 20
+imgsz: 640
+batch: 16
+device: "0"
+project_dir: outputs
+candidate_label: YOLOv8n on BDD100K
+dataset_name: BDD100K
